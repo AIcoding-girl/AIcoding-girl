@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a Frontend Developer on my way to becoming a Software Developer, with a strong interest in automation solutions.
 
@@ -14,7 +14,11 @@ I love diving into the fascinating world of mathematics and exploring how it can
 
 ## Current Projects 🚀
 
-I'm currently working on several projects involving React and Vue, and I'm also learning Java to expand my skill set and versatility as a developer.
+I'm currently working on several prototype projects, and I'm also learning Java to expand my skill set and versatility as a developer.
+
+- **Google Web Development**: https://web.dev/learn
+- **Google Tech Dev Guide**: https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/
+- **Hackerrank (Java)**: https://www.hackerrank.com/domains/java
 
 ## Let's Connect! 🌐
 

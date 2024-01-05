@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Frontend Developer on my way to becoming a Software Developer, with a strong interest in automation solutions.
+I'm a business-minded Web Application Developer on my way to becoming a Software Developer, with a strong interest in automation solutions.
 
 ## My Tech Stack 🛠️
 

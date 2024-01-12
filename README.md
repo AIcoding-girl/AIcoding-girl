@@ -10,7 +10,7 @@ I'm a business-minded Web Application Developer on my way to becoming a Software
 
 ## What I'm about 🌱
 
-I love diving into the fascinating world of mathematics and exploring how it can help solve complex problems. My goal is to create efficient, impactful, and user-friendly applications that serve real-world needs.
+My goal is to create efficient, impactful, and user-friendly applications that serve real-world needs.
 
 ## Current Projects 🚀
 

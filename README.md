@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a business-minded Web Application Developer on my way to becoming a Software Developer, with a strong interest in automation solutions.
+I'm a business-minded Web Application Developer on my way to becoming a Software Developer, with a strong interest in automation solutions and cybersecurity.
 
 ## My Tech Stack 🛠️
 
 - **Languages**: JavaScript, Java (currently learning)
-- **Frameworks/Libraries**: React, Vue
-- **Other Technologies**: Google Appscript
+- **Frameworks/Libraries**: React, Nextjs, TypeScript, Redux, API Testing
+- **Other Technologies**: Node, Google Appscript
 
 ## What I'm about 🌱
 
@@ -16,9 +16,9 @@ My goal is to create efficient, impactful, and user-friendly applications that s
 
 I'm currently working on several prototype projects, and I'm also learning Java to expand my skill set and versatility as a developer.
 
-- **Google Web Development**: https://web.dev/learn
-- **Google Tech Dev Guide**: https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/
-- **Hackerrank (Java)**: https://www.hackerrank.com/domains/java
+- **[Google Web Development](https://web.dev/learn)**
+- **[Google Tech Dev Guide, Algorithms and Data Structures](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)**
+- **[Cisco Certified Support Technician (CCST) Networking](https://skillsforall.com/resources/ccst-networking?courseLang=en-US)**
 
 ## Let's Connect! 🌐
 

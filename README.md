@@ -4,9 +4,9 @@ I'm a business-minded Web Application Developer on my way to becoming a Software
 
 ## My Tech Stack 🛠️
 
-- **Languages**: currently, JavaScript
+- **Languages**: JavaScript (+ learning Java)
 - **Frameworks/Libraries**: React, Nextjs, TypeScript, Redux, API Testing
-- **Other Technologies**: Node, Google Appscript
+- **Other Technologies**: Google Appscript
 
 ## What I'm about 🌱
 
@@ -17,8 +17,8 @@ My goal is to create efficient, impactful, and user-friendly applications that s
 I'm currently working on several prototype projects, and I'm also learning Java to expand my skill set and versatility as a developer.
 
 - **[Google Web Development](https://web.dev/learn)**
-- **[Google Tech Dev Guide, Algorithms and Data Structures](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)**
 - **[Cisco Certified Support Technician (CCST) Networking](https://skillsforall.com/resources/ccst-networking?courseLang=en-US)**
+- **[Cisco Certified Support Technician (CCST) Cybersecurity](https://skillsforall.com/resources/ccst-cybersecurity?courseLang=en-US)**
 - **[Sports Performance Analytics Specialization](https://www.coursera.org/specializations/sports-analytics)**
 
 ## Let's Connect! 🌐

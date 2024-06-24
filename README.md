@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a business-minded Web Application Developer on my way to becoming a Software Developer, with a strong interest in automation solutions, cybersecurity and sports analytics.
+I'm a business-minded web application developer on my way to becoming a software developer, with a strong interest in automated solutions and cybersecurity.
 
 ## My Tech Stack 🛠️
 
@@ -10,20 +10,13 @@ I'm a business-minded Web Application Developer on my way to becoming a Software
 
 ## What I'm about 🌱
 
-My goal is to create efficient, impactful, and user-friendly applications that serve real-world needs.
+My goal is to create efficient, impactful, and user-friendly solutions that serve real-world needs.
 
 ## Current Projects 🚀
 
-I'm currently working on several prototype projects, and I'm also learning Java to expand my skill set and versatility as a developer.
-
-- **[Google Web Development](https://web.dev/learn)**
 - **[Cisco Certified Support Technician (CCST) Networking](https://skillsforall.com/resources/ccst-networking?courseLang=en-US)**
 - **[Cisco Certified Support Technician (CCST) Cybersecurity](https://skillsforall.com/resources/ccst-cybersecurity?courseLang=en-US)**
-- **[Sports Performance Analytics Specialization](https://www.coursera.org/specializations/sports-analytics)**
-
-## Let's Connect! 🌐
-
-Feel free to reach out if you're interested in collaborating on a project, or if you just want to chat about web development, sports analytics or cybersecurity!
+- Math, Algorithms
 
 <!--
 **AIcoding-girl/AIcoding-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

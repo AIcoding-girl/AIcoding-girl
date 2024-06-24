@@ -12,7 +12,7 @@ I'm a business-minded web application developer on my way to becoming a software
 
 My goal is to create efficient, impactful, and user-friendly solutions that serve real-world needs.
 
-## Current Projects 🚀
+## Current Learning 🚀
 
 - **[Cisco Certified Support Technician (CCST) Networking](https://skillsforall.com/resources/ccst-networking?courseLang=en-US)**
 - **[Cisco Certified Support Technician (CCST) Cybersecurity](https://skillsforall.com/resources/ccst-cybersecurity?courseLang=en-US)**

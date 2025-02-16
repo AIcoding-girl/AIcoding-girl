@@ -8,7 +8,7 @@ I'm a business-minded web application developer on my way to becoming a software
 - **Frameworks/Libraries**: React, Nextjs, TypeScript, Redux, API Testing
 - **Other Technologies**: Google Appscript
 
-## Current Learning and Projects 🌱
+## Current Projects 🔭
 
 - Full stack hobby projects related to F1 data analysis and data visualization 🏎️
 - Python automation and API integrations projects 🐍

@@ -4,9 +4,19 @@ I'm a business-minded web application developer on my way to becoming a software
 
 ## My Tech Stack 🛠️
 
-- **Languages**: JavaScript (+ learning Java and Python)
-- **Frameworks/Libraries**: React, Nextjs, TypeScript, Redux, API Testing
-- **Other Technologies**: Google Appscript
+- **Programming Languages**:
+  - JavaScript
+  - Some experience in Python, Java, basics of C++
+- **Frameworks & Libraries**:
+  - React
+  - Next.js
+  - TypeScript
+  - Redux
+- **Tools & Technologies**:
+  - API Testing
+  - MongoDB
+  - GitHub Actions
+  - Google Apps Script
 
 ## Current Projects 🔭
 
